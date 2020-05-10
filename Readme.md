@@ -15,7 +15,7 @@ A multiclass imbalanced dataset for the research community made of **2432** inst
 
 The datasets contains wide range of symbols that are common in P&ID Diagrams. Each instance of these symbols were scaled to 100 by 100 pixels. 
 
-![png](Figures/Symbols.png)
+![png](Figures/symbols.png)
 
 #### Symbols Classification
 
