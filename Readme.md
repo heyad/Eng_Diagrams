@@ -20,6 +20,8 @@ The datasets contains wide range of symbols that are common in P&ID Diagrams. Ea
 #### Symbols Classification
 
 The dataset was split into training and testing sets where 80% of the data was used for training and the remaining 20% for testing. The training set was then split into training and validation sets with ratios of 90% and 10% of the remaining training set respectively. The code for the CNN model training/ validation is available [here](notebook/) 
+
+**Note**: Paper citation/ url to follow
 #### Comments / Questions 
 
 You can reach me at [my staff page](https://www3.rgu.ac.uk/dmstaff/elyan-eyad) or on [linkedin](http://www.linkedin.com/in/elyan )
