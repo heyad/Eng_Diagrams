@@ -31,6 +31,11 @@ For more advanced methods to handle engineering diagrams, please see:
 
 * E. Elyan, L Jamieson, A. A. Gombe, “Deep learning for symbols detection and classification in engineering drawings”, Neural Networks, 129:91-102, 2020, Elsevier, DOI [https://doi.org/10.1016/j.neunet.2020.05.025](https://doi.org/10.1016/j.neunet.2020.05.025)
 
+For using GANs to handle class-imbalance please see: 
+
+* A. A. Gombe, E. Elyan,“MFC-GAN: Class-imbalanced dataset classification using Multiple Fake Class Generative Adversarial Network”, Neurocomputing, 2019, Elsevier, DOI [doi:https://doi.org/10.1016/j.neucom.2019.06.043](https://doi.org/10.1016/j.neucom.2019.06.043) . The code to reproduce results can be found [Here](This)
+
+
 
 **Note**: Paper citation/ url to follow
 #### Comments / Questions 
